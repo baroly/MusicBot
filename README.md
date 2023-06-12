@@ -15,6 +15,8 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
 
 [![Setup](http://i.imgur.com/VvXYp5j.png)](https://jmusicbot.com/setup)
 
+[tutorial](https://www.youtube.com/watch?v=FyOuyCzeEPo&ab_channel=NoTextToSpeech)
+
 ## Features
   * Easy to run (just make sure Java is installed, and run!)
   * Fast loading of songs
